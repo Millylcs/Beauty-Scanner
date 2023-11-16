@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499367403075",
+    "firebase_url": "https://beauty-scanner-7e323-default-rtdb.firebaseio.com",
+    "project_id": "beauty-scanner-7e323",
+    "storage_bucket": "beauty-scanner-7e323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499367403075:android:5de867dfb2bb715cdb7ef6",
+        "android_client_info": {
+          "package_name": "com.example.beautyscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499367403075-6aa94sm0aulef555aparldnb778d76hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6iB0cgKYa4vWbjT1C3UOPbbtQ4eIAyX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499367403075-6aa94sm0aulef555aparldnb778d76hg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499367403075-jlkp7f796tbpf3btba6touj9r6e28ce4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beautyscanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
