@@ -36,9 +36,9 @@ https://www.youtube.com/watch?v=x-B1JVxjUSA
 
 Algumas capturas de tela de como o projeto como referência:
 
-<a href="https://ibb.co/tYGdmLb"><img src="https://i.ibb.co/h26q7YK/Buscar-pele.jpg" alt="Buscar-pele" border="0" width="330"></a>
-<a href="https://ibb.co/LRKYkCb"><img src="https://i.ibb.co/B3kczgd/Main.jpg" alt="Main" border="0" width="330"></a>
-<a href="https://ibb.co/yyCqMkX"><img src="https://i.ibb.co/xjb6cgD/Produto.jpg" alt="Produto" border="0" width="330"></a>
+<a href="https://ibb.co/RH5tKGc"><img src="https://i.ibb.co/NY4fqgK/Whats-App-Image-2023-11-16-at-23-08-58.jpg" alt="Whats-App-Image-2023-11-16-at-23-08-58" border="0" width="330"></a>
+<a href="https://ibb.co/FhrdSx8"><img src="https://i.ibb.co/RgFJxvQ/Whats-App-Image-2023-11-16-at-23-08-56-1.jpg" alt="Whats-App-Image-2023-11-16-at-23-08-56-1" border="0" width="330"></a>
+<a href="https://ibb.co/7zcLwF5"><img src="https://i.ibb.co/rtPNCJS/Whats-App-Image-2023-11-16-at-23-08-56.jpg" alt="Whats-App-Image-2023-11-16-at-23-08-56" border="0" width="330">
 
 ### Contribuições e Contato
 
